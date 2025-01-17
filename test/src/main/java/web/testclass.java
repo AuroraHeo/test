@@ -7,6 +7,7 @@ public class testclass {
 		System.out.println("하하하");
 
 		// 누궈>??
+		// 나 고칠거
 		
 		System.out.println("안녕~~~~~하하");
 
