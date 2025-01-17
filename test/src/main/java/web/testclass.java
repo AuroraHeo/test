@@ -8,6 +8,8 @@ public class testclass {
 
 		System.out.println("안녕");
 		//하하하 내가 에러 넣었지롱
+		
+		System.out.println("안녕~~~~~하하");
 
 
 	}
